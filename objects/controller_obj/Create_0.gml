@@ -7,3 +7,9 @@
 timeline_index = timeline0;
 timeline_loop = 1;
 timeline_running = 1;
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 31076980
+
+__dnd_score = real(0);

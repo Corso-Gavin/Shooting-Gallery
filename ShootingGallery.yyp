@@ -95,14 +95,6 @@
             }
         },
         {
-            "Key": "6467bd94-5608-4aca-8a20-f08c12711f14",
-            "Value": {
-                "id": "37a13ff1-eb7d-4239-8b1d-0b70cfede635",
-                "resourcePath": "objects\\score_obj\\score_obj.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "6b476405-ea30-45ef-841f-326299ffec0c",
             "Value": {
                 "id": "1bcb1d4e-d55c-4257-b600-d0bbb7c4c58f",
@@ -183,6 +175,14 @@
             }
         },
         {
+            "Key": "8c948868-fcd7-4099-b028-fb0e3179d3e8",
+            "Value": {
+                "id": "9e52630b-4da2-4b5c-9129-a3fc19984b9c",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "8f5e127d-60ec-4601-ae97-2bf81f4d66ae",
             "Value": {
                 "id": "e5f46b38-d1c6-4aec-96d0-b114a8a1f7fc",
@@ -220,6 +220,14 @@
                 "id": "c980e621-d7de-4b79-8894-a8df1c5bca1e",
                 "resourcePath": "sprites\\duck1_spr\\duck1_spr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ae15abe4-4e10-4bbd-a717-af36446ce6d0",
+            "Value": {
+                "id": "3ff42738-3757-4948-99b2-c6e0a90ba2ec",
+                "resourcePath": "fonts\\font_ingame\\font_ingame.yy",
+                "resourceType": "GMFont"
             }
         },
         {
