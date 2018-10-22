@@ -98,7 +98,7 @@
             "Key": "6467bd94-5608-4aca-8a20-f08c12711f14",
             "Value": {
                 "id": "37a13ff1-eb7d-4239-8b1d-0b70cfede635",
-                "resourcePath": "objects\\controller\\controller.yy",
+                "resourcePath": "objects\\score_obj\\score_obj.yy",
                 "resourceType": "GMObject"
             }
         },
