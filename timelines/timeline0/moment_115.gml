@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 3482DEF5
+/// @DnDHash : 51115BFE
 /// @DnDArgument : "xpos" "960"
 /// @DnDArgument : "ypos" "irandom_range(100,400)"
 /// @DnDArgument : "objectid" "object_target_bullets"
